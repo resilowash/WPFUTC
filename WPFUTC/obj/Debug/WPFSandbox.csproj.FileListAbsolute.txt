@@ -1,0 +1,15 @@
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\WPFSandbox.csprojAssemblyReference.cache
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\MainWindow.g.cs
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\App.g.cs
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\WPFSandbox_MarkupCompile.cache
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\WPFSandbox_MarkupCompile.lref
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\bin\Debug\WPFSandbox.exe.config
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\bin\Debug\WPFSandbox.exe
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\bin\Debug\WPFSandbox.pdb
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\MainWindow.baml
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\WPFSandbox.g.resources
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\WPFSandbox.Properties.Resources.resources
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\WPFSandbox.csproj.GenerateResource.cache
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\WPFSandbox.csproj.CoreCompileInputs.cache
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\WPFSandbox.exe
+C:\Users\RSilwash\Development\Sandbox\WPFSandbox\WPFSandbox\obj\Debug\WPFSandbox.pdb
